@@ -29,7 +29,7 @@
     "picture": "https://img-c.udemycdn.com/course/240x135/472526_2762_4.jpg",
     "price": 110,
     "short_description": "PHP for Beginners: learn everything you need to become a professional developer.",
-    "description": "Elit minim enim deserunt ullamco officia amet nulla duis reprehenderit aute pariatur aute laboris. Eu excepteur eu incididunt nulla do fugiat ipsum sunt exercitation occaecat qui proident amet sit. Fugiat do nulla cillum fugiat do pariatur.\r\n"
+    "description": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal. Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications. Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google. Millions of websites and applications (the majority) use PHP. You can find a job anywhere or even work on your own, online and in places like freelancer or Odesk. You can definitely make a substantial income once you learn it."
   },
   {
     "_id": "6357a320d6af0e6fb08badfb",
@@ -37,7 +37,7 @@
     "picture": "https://img-c.udemycdn.com/course/240x135/1471348_791a_2.jpg",
     "price": 130,
     "short_description": "Learn data science, automation, build websites. by building 100 projects in 100 days. ",
-    "description": "Ea ut qui ea irure cillum. Velit laborum nulla pariatur officia irure. Proident id nostrud ex dolore deserunt minim tempor do. Minim aliquip nisi sunt ea in laborum eiusmod ipsum qui velit minim aute mollit consectetur. Deserunt cupidatat pariatur esse quis duis id minim nulla anim culpa tempor aliquip ad occaecat.\r\n"
+    "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. 100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python. At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib. Be able to use Python for data science and machine learning Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more! This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you! We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered."
   },
   {
     "_id": "6357a320f90f03dc5e27f984",
@@ -45,6 +45,6 @@
     "picture": "https://img-c.udemycdn.com/course/240x135/4888428_791e_2.jpg",
     "price": 200,
     "short_description": "Learn how to set up profitable Facebook Ads campaigns. Go From Zero to Hero!",
-    "description": "Duis tempor ullamco proident nostrud enim enim nisi consectetur esse est proident. Elit commodo proident velit mollit adipisicing amet est mollit aute commodo. Do tempor nisi do veniam elit.\r\n"
+    "description": "Are you looking for a Facebook Ads course that shows you EXACTLY how to set up and run profitable Facebook Ads campaigns? Great, you're in the right place.  In this course, you'll be able to watch me in real-time as I show you exactly how I set up and run profitable Facebook ads, step by step. Instead of just giving you the theory and then leaving it up to you to figure it all out, you'll be able to watch over my shoulder and see how to implement everything I'm teaching, ensuring everything you learn is super actionable. The process I follow throughout the course is the SAME process I use when setting up and creating ads for my clients, so you can be confident what you're learning is indeed used in the real world and does actually work. There are tons of resources for you to download throughout the course and lots of bonus tips and tricks you can use as well."
   }
 ]
