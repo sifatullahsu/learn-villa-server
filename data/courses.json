@@ -3,7 +3,7 @@
     "_id": "6357a32013286710598ae0bf",
     "name": "Photoshop Tutorial",
     "picture": "https://img-b.udemycdn.com/course/240x135/16799_e077_20.jpg",
-    "price": 150,
+    "price": "$150",
     "short_description": "Master Adobe Photoshop CC 2022 without any previous knowledge.",
     "description": "Are you already good at Photoshop? Do you know there is more that you aren't using? This course will take to you the top level of Photoshop. This course is not for people new to Photoshop. This is for people who already know the fundamentals. It is for people who have their own ways of doing things but believe there really is a better, faster way to work. We will start by learning the best selection techniques available. I promise, by the end of the first section what took you 30mins to mask will now take you 30 seconds. You'll learn the very best Photoshop retouching skills as well as how to master Photoshop for graphic design. We will correct 'hard to fix' images and learn what to do with blurry images. We will master Advanced Levels & Curves tricks and will work specifically with skin, adjusting and enhancing colours. "
   },
@@ -11,7 +11,7 @@
     "_id": "6357a3203108aa2e8949571e",
     "name": "Adobe Illustrator Tutorial",
     "picture": "https://img-c.udemycdn.com/course/240x135/1197206_7201_4.jpg",
-    "price": 120,
+    "price": "$120",
     "short_description": "Learn Adobe Illustrator CC graphic design, logo design, and more with practical.",
     "description": "Are you frustrated trying to teach yourself Adobe Illustrator?! This course will quickly allow you to start getting paid for your Illustrator skills. Whether you're brand new to Illustrator, or have played around with it but need more guidance, this course will help you feel confident and comfortable using the industry-standard vector-based graphic application. This course was designed for the complete beginner, with practice files and fun projects to get you taking action. Throughout this Illustrator CC course, you'll be designing your own real-world projects that are professional and inspire you to do even more! Design your own amazing graphics while learning new skills. This Adobe Illustrator CC course is jam-packed with projects and project files for you to follow along with."
   },
@@ -19,7 +19,7 @@
     "_id": "6357a32008672daa5230b321",
     "name": "After Effects Tutorial",
     "picture": "https://img-c.udemycdn.com/course/240x135/795614_816a_7.jpg",
-    "price": 180,
+    "price": "$180",
     "short_description": "Learn Beginner to Advanced Adobe After Effect CC: Motion Graphics, Typography.",
     "description": "If you are looking to make your videos better, adding motion graphics and visual effects is the way to do that. After Effects CC is used by professionals across the world for every type of production from business & marketing videos, music videos to documentaries, feature films. This full course is the best way to jump right in and start making your own videos come to life. The lessons are meant to teach you how to think like a motion graphics/video effects artist. After Effects is a robust tool that is capable of creating almost any video effect out there. You'll learn all of the basics, intermediate, and some advanced techniques, from working with shapes, text, and textures to video effects, transitions, and 3d camera."
   },
@@ -27,7 +27,7 @@
     "_id": "6357a32018accce5af4ebf19",
     "name": "PHP Tutorial",
     "picture": "https://img-c.udemycdn.com/course/240x135/472526_2762_4.jpg",
-    "price": 110,
+    "price": "$110",
     "short_description": "PHP for Beginners: learn everything you need to become a professional developer.",
     "description": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal. Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications. Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google. Millions of websites and applications (the majority) use PHP. You can find a job anywhere or even work on your own, online and in places like freelancer or Odesk. You can definitely make a substantial income once you learn it."
   },
@@ -35,7 +35,7 @@
     "_id": "6357a320d6af0e6fb08badfb",
     "name": "Python Tutorial",
     "picture": "https://img-c.udemycdn.com/course/240x135/1471348_791a_2.jpg",
-    "price": 130,
+    "price": "$130",
     "short_description": "Learn data science, automation, build websites. by building 100 projects in 100 days. ",
     "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. 100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python. At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib. Be able to use Python for data science and machine learning Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more! This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you! We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered."
   },
@@ -43,7 +43,7 @@
     "_id": "6357a320f90f03dc5e27f984",
     "name": "Facebook Marketing Tutorial",
     "picture": "https://img-c.udemycdn.com/course/240x135/4888428_791e_2.jpg",
-    "price": 200,
+    "price": "$200",
     "short_description": "Learn how to set up profitable Facebook Ads campaigns. Go From Zero to Hero!",
     "description": "Are you looking for a Facebook Ads course that shows you EXACTLY how to set up and run profitable Facebook Ads campaigns? Great, you're in the right place.  In this course, you'll be able to watch me in real-time as I show you exactly how I set up and run profitable Facebook ads, step by step. Instead of just giving you the theory and then leaving it up to you to figure it all out, you'll be able to watch over my shoulder and see how to implement everything I'm teaching, ensuring everything you learn is super actionable. The process I follow throughout the course is the SAME process I use when setting up and creating ads for my clients, so you can be confident what you're learning is indeed used in the real world and does actually work. There are tons of resources for you to download throughout the course and lots of bonus tips and tricks you can use as well."
   }
